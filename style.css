@@ -1,0 +1,13 @@
+#clock {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    vertical-align: middle;
+    align-items: center;
+}
+#date {
+    font-size: 50px;
+}
+#time {
+    font-size: 50px;
+}
